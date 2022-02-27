@@ -1,0 +1,2 @@
+ Using public key, anyone can see your file and have permission to change whereas Private key, will be allowed to the requested shared editor.
+
