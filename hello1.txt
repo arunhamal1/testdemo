@@ -1,0 +1,2 @@
+This is the terminal for git bash to push file in GIt hub.
+
