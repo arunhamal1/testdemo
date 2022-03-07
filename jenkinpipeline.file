@@ -1,0 +1,22 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('BUILD') {
+            steps {
+                echo 'This is the Build stage of Developing code'
+            }
+        }
+        stage('TEST') {
+            steps {
+                echo 'TESTING is done after CODING'
+            }
+        }
+        stage('DEPLOY') {
+            steps {
+                echo 'Once TEST is PASS, Ready to DEPLOY'
+            }
+        }
+    }
+}
+
