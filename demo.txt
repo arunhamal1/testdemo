@@ -1,2 +1,7 @@
 Hi, I am now using SSH-Key to push my file to github.
-
+Git is the most commonly used Distributed Version Control System. It keeps a record of every change in a project by taking snapshots. It means that you can easily roll back to any previous version/state of a project.
+Hi
+Today
+See you next day
+How are you
+Welcome
